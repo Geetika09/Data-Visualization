@@ -11,9 +11,6 @@ To enhance usability, the project incorporates responsive design principles, ens
 The README file accompanying the project provides detailed information on how to set up and run the application, as well as any additional dependencies or configurations required.
 
 Note: The primary objective of this project is to showcase Full Stack development skills, particularly the integration of MongoDB for data storage and the creation of APIs to facilitate data retrieval and manipulation.
-## Authors
-
-- [@harsh bansal](https://github.com/hars008)
 
 
 ## Deployment
